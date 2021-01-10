@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "boxing predictor",
+            "type": "python",
+            "request": "launch",
+            "program": "E:\\Usuario\\Documents\\Projects\\AI\\real_boxing_predictor_project\\boxing_prediction_project\\boxing_prediction_project\\__init__.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+boxing_prediction_project/__init__.py
+boxing_prediction_project.egg-info/PKG-INFO
+boxing_prediction_project.egg-info/SOURCES.txt
+boxing_prediction_project.egg-info/dependency_links.txt
+boxing_prediction_project.egg-info/entry_points.txt
+boxing_prediction_project.egg-info/not-zip-safe
+boxing_prediction_project.egg-info/top_level.txt

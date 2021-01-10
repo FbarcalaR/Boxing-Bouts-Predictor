@@ -1,0 +1,31 @@
+1. Title: Boxing Bouts Data
+
+2. Sources:
+   (a) Original owners: boxrec.com
+
+6. Number of Attributes: 19
+
+7. For Each Attribute:
+   1. boxerA age
+   2. boxerA stance
+   3. boxerA height
+   4. boxerA reach
+   5. boxerA win record before the bout
+   6. boxerA lose record before the bout
+   7. boxerA drawn record before the bout
+   8. boxerA number of bouts before the bout
+   9. boxerA KO record before the bout
+   10. boxerB age
+   11. boxerB stance
+   12. boxerB height
+   13. boxerB reach
+   14. boxerB win record before the bout
+   15. boxerB lose record before the bout
+   16. boxerB drawn record before the bout
+   17. boxerB number of bouts before the bout
+   18. boxerB KO record before the bout
+   19. bout place
+   20. winner (-1 left boxer won, 0 drawn, 1 right boxer won)
+
+
+8. Missing Attribute Values: Yes
