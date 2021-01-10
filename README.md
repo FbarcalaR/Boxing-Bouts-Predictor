@@ -3,8 +3,9 @@ Project made with python to scrape data from boxrec.com and analyse the bouts us
 
 ## Data
 In this project there are to .csv containing the data:
-  **boxing-bouts-data.csv** has been scraped, using this project, from boxrec.com
-  **boxing_matches.csv** was taken from another project: https://github.com/EmmS21/SpringboardCapstoneBoxingPredictionWebApp, the creator also has a post where he explains all the project creating process:https://hackernoon.com/d-nr1o32po. Also, some changes were made during the creation of this project, like changing strings for the boxers stance to a code number and the same for indicate who won the bout.
+- **boxing-bouts-data.csv** has been scraped, using this project, from boxrec.com
+- **boxing_matches.csv** was taken from another project: https://github.com/EmmS21/SpringboardCapstoneBoxingPredictionWebApp, the creator also has a post where he explains all the project creating process:https://hackernoon.com/d-nr1o32po.
+Also, some changes were made during the creation of this project, like changing strings for the boxers stance to a code number and the same for indicate who won the bout.
   
 ## Scraping
 For the scraping part, the projects takes the data from boxrec.com some main parts of this scraping process are:
