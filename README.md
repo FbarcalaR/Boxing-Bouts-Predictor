@@ -16,7 +16,7 @@ For the scraping part, the projects takes the data from boxrec.com some main par
   
 Right now, after several requests, boxrec.com could ban the users IP so the page cannot be accessed again
 
-## Machine learining
+## Machine learning
 The machine learning part consists in an unique script wich takes the data from a csv, filters it to get the boxers similar to the inputs of the user and then creates a model to work and train with the given data. Onece the model is trained, the makes a prediction with the given boxers.
 Usually, the resulting accuracy is around 70%~80%, but the tests had not too much data to be reliable.
 
